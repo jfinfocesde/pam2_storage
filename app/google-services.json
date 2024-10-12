@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "885724552275",
+    "project_id": "movilesii-80bf5",
+    "storage_bucket": "movilesii-80bf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885724552275:android:4769fabe7203bc00f87aa6",
+        "android_client_info": {
+          "package_name": "com.example.configfb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7JhrJzeKcVntjdZIrdvitgD2coibxcxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885724552275:android:3afd6420e78ebed2f87aa6",
+        "android_client_info": {
+          "package_name": "com.example.configurarfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7JhrJzeKcVntjdZIrdvitgD2coibxcxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
